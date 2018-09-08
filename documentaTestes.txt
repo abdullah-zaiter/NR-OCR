@@ -1,0 +1,320 @@
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 14
+Number of validating noise samples 10
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 300
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 14
+Number of validating noise samples 10
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 300
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 14
+Number of validating noise samples 10
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 300
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 14
+Number of validating noise samples 10
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 300
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 50
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 50
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 50
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+--------------- New Test ----------------
+Levels of noise 5
+Number of training noise samples for each noise level 1
+Number of validating noise samples 1
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 1
+Number of validating noise samples 1
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 150
+Number of validating noise samples 50
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 150
+Number of validating noise samples 50
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 150
+Number of validating noise samples 50
+Activation function =sigmoid
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 150
+Number of validating noise samples 50
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 200
+Number of Epochs for other noise NN 200
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 75
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 75
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 4
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 75
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 5
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 75
+Number of validating noise samples 25
+Activation function =sigmoid
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 50
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 75
+Number of validating noise samples 25
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 8
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 12
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 16
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 16
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Activation function =relu
+Number of Neurons in first layer 16
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 100
+Number of Epochs for other noise NN 100
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Number of Neurons in first layer 16
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 100
+Number of Epochs for other noise NN 100
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Number of Neurons in first layer 32
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 50
+Number of Epochs for other noise NN 50
+--------------- New Test ----------------
+Levels of noise 6
+Number of training noise samples for each noise level 45
+Number of validating noise samples 15
+Number of Neurons in first layer 32
+Number of Epochs for no noise NN 200
+weights of no noise trainging
+
+Number of Epochs for the same noise NN 100
+Number of Epochs for other noise NN 100
